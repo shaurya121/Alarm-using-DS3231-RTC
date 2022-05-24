@@ -7,7 +7,7 @@ Use Arduino UNO as a alarm clock using DS3232 Module.
 ## Screenshots
 ![App Screenshot](https://raw.githubusercontent.com/shaurya121/Alarm-using-DS3231-RTC/main/Screenshots/device.gif)
 ![App Screenshot](https://raw.githubusercontent.com/shaurya121/Alarm-using-DS3231-RTC/main/Screenshots/serial_monitor.jpg)
-Serial Monitor
+                Serial Monitor
 
 
 
